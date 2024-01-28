@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Terrance. I love to program.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a fan of many sports, reach out to me at tc3180@nyu.edu
 
