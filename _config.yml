@@ -24,6 +24,10 @@ avatar_alt_text: Avatar
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
 
+# set the future flag to true if you want your future blogs to be show in the deployed 
+# page; set it to false otherwise 
+future: true
+
 # CUSTOMIZE
 #
 # Flags below are optional - customize them if you wish
