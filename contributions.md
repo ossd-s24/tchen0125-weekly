@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Feb 25  | [Sobak Restaurant](https://www.openstreetmap.org/changeset/147912588#map=19/40.71494/-73.99163) | Open Street Map Feature |   I added a restaurant near my apartment   |
 |     |     |     |      |
