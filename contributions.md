@@ -43,5 +43,10 @@ Replace the first row with your own contribution.
 | Mar 10   | [Mr.Poke](https://www.openstreetmap.org/node/8783508189)   | Open Street Map Feature | I added my old workplace
 | Mar 10   | [Tous Les Jours](https://www.openstreetmap.org/node/8783509272)   | Open Street Map Feature | I added local chain bakery
 | Mar 10   | [Priyadarshan Wikipedia](https://en.wikipedia.org/w/index.php?title=Priyadarshan&oldid=1213016623)   | Wikipedia Edit   | I rewrote the first portion in order to have better tone and grammer
-
-
+| Apr 14   | [Le Dive](https://www.openstreetmap.org/node/8783508189)   | Open Street Map Feature | I added local bar I frequent
+| Apr 14   | [Rong Hang](https://www.openstreetmap.org/changeset/150011611)   | Open Street Map Feature | I added local restaurant near me
+| Apr 14   | [Rong City Fish Balls](https://www.openstreetmap.org/changeset/150011664)   | Open Street Map Feature | I added my favorite snack place
+| Apr 14   | [My Food House](https://www.openstreetmap.org/changeset/150011701)   | Open Street Map Feature | I added local restaurant
+| Apr 14   | [Lian Jiang](https://www.openstreetmap.org/changeset/150011729#map=18/40.71530/-73.99295)   | Open Street Map Feature | I added local restaurant
+| Apr 14   | [Project 200 Wikipedia](https://en.wikipedia.org/w/index.php?title=Project_200&oldid=1218960620)   | Wikipedia Edit | I rewrote and restructured the entire artice
+| Apr 14   | [Student Debt Wikipedia](https://en.wikipedia.org/w/index.php?title=Student_debt&oldid=1218959143)   | Wikipedia Edit | I rewrote the first portion in order to follow the tone of wikipedia
