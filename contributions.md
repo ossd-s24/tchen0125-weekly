@@ -56,4 +56,5 @@ Replace the first row with your own contribution.
 | Apr 14   | [Student Debt Wikipedia](https://en.wikipedia.org/w/index.php?title=Student_debt&oldid=1218959143)   | Wikipedia Edit | I rewrote the first portion in order to follow the tone of wikipedia
 | Apr 14   | [Created Pull Request](https://github.com/openfoodfacts/openfoodfacts-server/pull/10129#issue-2242331729)   | Group Pull Request | Me and my group open pull request to add a check_quality api service for real-time data validation
 | Apr 21   | [Created Pull Request](https://github.com/joannakl/ossd/pull/118)| Class Website Edit | Fixed a small typo on the class website
+| Apr 21   | [Wills Navy Cut](https://en.wikipedia.org/w/index.php?title=Wills_Navy_Cut&oldid=1220079974)| Wikipedia edit | Changed tone and phrasing to be more accurate to wikipedias tone. Also added more information and citation to introduction
 
