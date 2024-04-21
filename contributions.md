@@ -57,4 +57,8 @@ Replace the first row with your own contribution.
 | Apr 14   | [Created Pull Request](https://github.com/openfoodfacts/openfoodfacts-server/pull/10129#issue-2242331729)   | Group Pull Request | Me and my group open pull request to add a check_quality api service for real-time data validation
 | Apr 21   | [Created Pull Request](https://github.com/joannakl/ossd/pull/118)| Class Website Edit | Fixed a small typo on the class website
 | Apr 21   | [Wills Navy Cut](https://en.wikipedia.org/w/index.php?title=Wills_Navy_Cut&oldid=1220079974)| Wikipedia edit | Changed tone and phrasing to be more accurate to wikipedias tone. Also added more information and citation to introduction
+| Apr 21   | [Carol’s Bun](https://www.openstreetmap.org/changeset/150313777)   | Open Street Map Feature | I added my local lunch box restaurant
+| Apr 21   | [Yue Lai Bakery](https://www.openstreetmap.org/changeset/150313835)   | Open Street Map Feature | I added my local bakery
+| Apr 21   | [Hawa’s Smoothies and Bubble Tea](https://www.openstreetmap.org/changeset/150313954)   | Open Street Map Feature | I added my local smoothie health store.
+
 
