@@ -60,5 +60,6 @@ Replace the first row with your own contribution.
 | Apr 21   | [Carol’s Bun](https://www.openstreetmap.org/changeset/150313777)   | Open Street Map Feature | I added my local lunch box restaurant
 | Apr 21   | [Yue Lai Bakery](https://www.openstreetmap.org/changeset/150313835)   | Open Street Map Feature | I added my local bakery
 | Apr 21   | [Hawa’s Smoothies and Bubble Tea](https://www.openstreetmap.org/changeset/150313954)   | Open Street Map Feature | I added my local smoothie health store.
+| Apr 28   | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10192)   | Pull Request | I added documentation to the quick start markdown file which details how to diagonose permission issues on macOS when building with the latest update.
 
 
