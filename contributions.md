@@ -60,9 +60,9 @@ Replace the first row with your own contribution.
 | Apr 21   | [Carol’s Bun](https://www.openstreetmap.org/changeset/150313777)   | Open Street Map Feature | I added my local lunch box restaurant
 | Apr 21   | [Yue Lai Bakery](https://www.openstreetmap.org/changeset/150313835)   | Open Street Map Feature | I added my local bakery
 | Apr 21   | [Hawa’s Smoothies and Bubble Tea](https://www.openstreetmap.org/changeset/150313954)   | Open Street Map Feature | I added my local smoothie health store.
-| Apr 28   | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10192)   | Pull Request | I added documentation to the quick start markdown file which details how to diagonose permission issues on macOS when building with the latest update.
+| Apr 28   | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10192)   | Documentation | I added documentation to the quick start markdown file which details how to diagonose permission issues on macOS when building with the latest update.
 | Apr 28   | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10193)   | Group Pull Request | I submitted pull request with help of my group members to move all images to the deleted folder when product is deleted without deleting individual images first.
-| Apr 28   | [Florida Department of Management Services Wikipedia](https://en.wikipedia.org/w/index.php?title=Student_debt&oldid=1218959143)   | Wikipedia Edit | I rewrote the first portion in order to follow the tone of wikipedia, also added some links to other wikipedia pages
+| Apr 28   | [Florida Department of Management Services Wikipedia](https://en.wikipedia.org/w/index.php?title=Florida_Department_of_Management_Services&oldid=1221300505)   | Wikipedia Edit | I rewrote the first portion in order to follow the tone of wikipedia, also added some links to other wikipedia pages
 
 
 
