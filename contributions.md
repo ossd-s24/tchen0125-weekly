@@ -63,6 +63,13 @@ Replace the first row with your own contribution.
 | Apr 28   | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10192)   | Documentation | I added documentation to the quick start markdown file which details how to diagonose permission issues on macOS when building with the latest update.
 | Apr 28   | [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server/pull/10193)   | Group Pull Request | I submitted pull request with help of my group members to move all images to the deleted folder when product is deleted without deleting individual images first.
 | Apr 28   | [Florida Department of Management Services Wikipedia](https://en.wikipedia.org/w/index.php?title=Florida_Department_of_Management_Services&oldid=1221300505)   | Wikipedia Edit | I rewrote the first portion in order to follow the tone of wikipedia, also added some links to other wikipedia pages
+| Apr 28 | [Bo Ky](https://www.openstreetmap.org/changeset/150642351#map=19/40.71577/-73.99869)   | Open Street Map Feature | I added all information for this point.
+| Apr 28 | [Coffee Factory](https://www.openstreetmap.org/changeset/150642451)   | Open Street Map Feature | I added Coffee Factory to open street map
+| Apr 28 | [Xi Top BBQ](https://www.openstreetmap.org/changeset/150642475#map=19/40.76254/-73.81508)   | Open Street Map Feature | I added local BBQ spot that sells skewers near me
+| Apr 28 | [Joong Koog Jip](https://www.openstreetmap.org/changeset/150642522)   | Open Street Map Feature | I added local korean restaurant that is a family favorite
+
+
+
 
 
 
